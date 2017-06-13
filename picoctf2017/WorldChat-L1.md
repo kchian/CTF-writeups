@@ -19,9 +19,9 @@ $ nc shell2017.picoctf.com 44323 | grep -i flagperson
 
 so to extract the flag, one could transcribe it, manually copy and paste each portion, or could use a code editor to rectangular select and delete the right parts. My editor of choice is Jetbrains Pycharm
 
-![Pycharm edit menu](/images/WorldChat1.png)
-![Selecting](/images/WorldChat2.png)
-![Replacing](/images/WorldChat3.png)
+![Pycharm edit menu](images/WorldChat1.png)
+![Selecting](images/WorldChat2.png)
+![Replacing](images/WorldChat3.png)
 
 Alternatively, Notepad++ works, simply hold the ALT button in order to enter column editing mode, then use the same regex replacement of new line to find the flag
 `7c2077dc26c16dc81acde49cd5630146`
